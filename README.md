@@ -12,5 +12,5 @@ Arduino
 <p>Codigo</p>
 
 <html> 
- iframe (src=archivo.txt)
+ iframe (src=Proyecto.txt)
 </html>
