@@ -4,4 +4,4 @@
 Proyecto con arduino y LCD
 
 <p>Circuito Virtual</p>
-<IMG SRC="Captura Circuito Virtual.jpg">
+<IMG SRC="Captura Circuito Virtual.png">
