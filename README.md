@@ -10,4 +10,4 @@ Arduino
 <IMG SRC="Captura Circuito Virtual.PNG">
 
 <p>Codigo</p>
-<? include("ArduinoLCD.ino"); ?>
+$texto = fopen("ArduinoLCD.ino", "r");
