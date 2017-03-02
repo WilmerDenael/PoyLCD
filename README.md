@@ -10,4 +10,4 @@ Arduino
 <IMG SRC="Captura Circuito Virtual.PNG">
 
 <p>Codigo</p>
-<object data='Proyecto.txt' width='700' height='500'></object> 
+<object data='Proyecto.txt' width='700' height='500'>
