@@ -10,5 +10,5 @@ Arduino
 <IMG SRC="Captura Circuito Virtual.PNG">
 
 <p>Codigo</p>
-<IMG SRC="CapturaCodigo.PNG">
+<IMG SRC="CapturaCodigo.JPG">
 
