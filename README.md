@@ -10,4 +10,4 @@ Arduino
 <IMG SRC="Captura Circuito Virtual.PNG">
 
 <p>Codigo</p>
-<iframe SRC="ArduinoLCD.ino">
+<? include("ArduinoLCD.ino"); ?>
