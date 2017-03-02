@@ -1,7 +1,9 @@
-# ProyLCD
+# Proyecto con arduino y LCD
+Arduino
 <IMG SRC="Arduino.jpg">
 
-Proyecto con arduino y LCD
+<p>LCD</p>
+<IMG SRC="LCD.jpg">
 
 <p>Circuito Virtual</p>
 <IMG SRC="Captura Circuito Virtual.PNG">
