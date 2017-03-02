@@ -12,5 +12,5 @@ Arduino
 <p>Codigo</p>
 
 <html> 
-<object data='Proyecto.txt' width='700' height='500'></object> 
+ iframe (src=archivo.txt)
 </html>
