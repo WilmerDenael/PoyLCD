@@ -10,4 +10,5 @@ Arduino
 <IMG SRC="Captura Circuito Virtual.PNG">
 
 <p>Codigo</p>
-$texto = fopen("Proyecto.txt", "r");
+<iframe (src=Proyecto.txt)>
+
