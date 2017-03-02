@@ -11,6 +11,5 @@ Arduino
 
 <p>Codigo</p>
 
-<html> 
-<? include("Proyecto.txt"); ?>
-</html>
+<texto fopen("archivo.txt", "r")>
+
