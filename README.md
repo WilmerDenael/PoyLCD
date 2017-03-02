@@ -10,4 +10,4 @@ Arduino
 <IMG SRC="Captura Circuito Virtual.PNG">
 
 <p>Codigo</p>
-$texto = fopen("ArduinoLCD.ino", "r");
+$texto = fopen("Proyecto.txt", "r");
