@@ -10,5 +10,6 @@ Arduino
 <IMG SRC="Captura Circuito Virtual.PNG">
 
 <p>Codigo</p>
-<txt src="Proyecto.txt">
+<file scr= "Proyecto.txt">
+
 
