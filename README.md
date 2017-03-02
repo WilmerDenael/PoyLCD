@@ -10,5 +10,5 @@ Arduino
 <IMG SRC="Captura Circuito Virtual.PNG">
 
 <p>Codigo</p>
-<iframe (src=Proyecto.txt)>
+iframe (src=Proyecto.txt)
 
