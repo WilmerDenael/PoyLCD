@@ -11,7 +11,6 @@ Arduino
 
 <p>Codigo</p>
 
-<!DOCTYPE html> 
 <html> 
 <object data='Proyecto.txt' width='700' height='500'></object> 
 </html>
