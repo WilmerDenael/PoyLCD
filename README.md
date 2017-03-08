@@ -1,5 +1,5 @@
 ## Proyecto con arduino y LCD
-<p>Materiales</p>
+#<p>Materiales</p>
 Arduino
 
 <IMG SRC="Arduino.jpg">
@@ -13,12 +13,12 @@ Arduino
 <p>Cables Jumpers</p>
 <IMG SRC="CablesJumpers.jpg">
 
-<p>Circuito Virtual</p>
+#<p>Circuito Virtual</p>
 <IMG SRC="Captura Circuito Virtual.PNG">
 
-<p>Codigo</p>
+#<p>Codigo</p>
 <IMG SRC="CapturaCodigo.JPG">
 
-<p>Circuito Real</p>
+#<p>Circuito Real</p>
 <IMG SRC="Circuito Real.JPG">
 
