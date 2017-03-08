@@ -19,7 +19,7 @@ Arduino
 ##<p>Circuito Virtual</p>
 <IMG SRC="Captura Circuito Virtual.PNG">
 
-##<p>Codigo Arduino</p>
+##<p>Código Arduino</p>
 <IMG SRC="CapturaCodigo.JPG">
 
 ##<p>Circuito Real</p>
