@@ -10,6 +10,9 @@ Arduino
 <p>Potenciometro</p>
 <IMG SRC="Potenciometro.jpg">
 
+<p>Resistencia</p>
+<IMG SRC="Resistor.jpg">
+
 <p>Cables Jumpers</p>
 <IMG SRC="CablesJumpers.jpg">
 
