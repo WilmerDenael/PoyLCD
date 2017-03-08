@@ -12,3 +12,6 @@ Arduino
 <p>Codigo</p>
 <IMG SRC="CapturaCodigo.JPG">
 
+<p>Circuito Real</p>
+<IMG SRC="Circuito Real.JPG">
+
